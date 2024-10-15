@@ -1,13 +1,13 @@
-package com.darpan.springboot;
+package com.dn.journal;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootApplication {
+public class JournalApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootApplication.class, args);
+		SpringApplication.run(JournalApplication.class, args);
 	}
 
 }
